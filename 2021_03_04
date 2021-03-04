@@ -1,0 +1,7 @@
+TIL - 2021-03-04
+
+**스프링부트**
+
+@AllArgsConstructor - lombok, 해당 클래스에 선언된 모든 필드들을 가지고 자동으로 생성자를 만들어준다.
+
+@RequiredArgsConstructor - 이것도 역시 lombok, 해당 클래스에 선언된 필드들 중 final 식별자가 선언된 필드들을 가지고 자동으로 생성자를 만들어준다.
